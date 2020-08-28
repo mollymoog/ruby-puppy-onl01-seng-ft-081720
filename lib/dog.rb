@@ -5,7 +5,7 @@ class Dog
   
   def initialize (puppy_name)
     @name = puppy_name
-    
+    save
   end 
   
   def save
